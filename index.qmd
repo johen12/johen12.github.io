@@ -1,5 +1,33 @@
 ---
 title: "Johan Hennert"
+about:
+    template: solana
+    links:
+        - icon: github
+          text: GitHub
+          href: https://github.com/johen12
 ---
 
+Hi! I am a PhD student in cognitive science at the [University of Potsdam](https://www.uni-potsdam.de) under the supervision of [Shravan Vasishth](https://vasishth.github.io) and [Ralf Engbert](https://www.uni-potsdam.de/de/expbiopsy/staff/ralf-engbert).
+
+As part of [Project B03 of the Collaborative Research Centre 1287](https://www.sfb1287.uni-potsdam.de), I work on modeling eye-movement control during reading of complex sentences, using Bayesian statistics to fit and compare models.
+
+## Education
+
+::: {.list-table}
+
+- - 
+  - 
+
+- - 2021 - 2024
+  - B.Sc Cognitive Science \
+    University of Potsdam \
+    *Final Grade:* 1.1
+
+- - 2024 - 2026
+  - M.Sc Computational Neuroscience \
+    Technical University of Berlin \
+    *Final Grade:* 1.1
+
+:::
 
