@@ -7,7 +7,7 @@ about:
         - icon: github
           text: GitHub
           href: https://github.com/johen12
-        - text: ORCiD
+        - text: ORCID
           href: https://orcid.org/0009-0001-4393-0457
 ---
 
