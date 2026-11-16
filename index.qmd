@@ -1,16 +1,49 @@
 ---
 title: "Johan Hennert"
+toc: false
 about:
     template: solana
     links:
         - icon: github
           text: GitHub
           href: https://github.com/johen12
+        - text: ORCiD
+          href: https://orcid.org/0009-0001-4393-0457
 ---
 
-Hi! I am a PhD student in cognitive science at the [University of Potsdam](https://www.uni-potsdam.de) under the supervision of [Shravan Vasishth](https://vasishth.github.io) and [Ralf Engbert](https://www.uni-potsdam.de/de/expbiopsy/staff/ralf-engbert).
+Hi! I'm a PhD student in cognitive science at the [University of Potsdam](https://www.uni-potsdam.de) under the supervision of [Shravan Vasishth](https://vasishth.github.io) and [Ralf Engbert](https://www.uni-potsdam.de/de/expbiopsy/staff/ralf-engbert).
 
-As part of [Project B03 of the Collaborative Research Centre 1287](https://www.sfb1287.uni-potsdam.de), I work on modeling eye-movement control during reading of complex sentences, using Bayesian statistics to fit and compare models.
+As part of [Project B03 of the Collaborative Research Centre 1287](https://www.sfb1287.uni-potsdam.de/en/projects/project-b03), I work on modeling eye-movement control during reading of complex sentences, using Bayesian statistics to fit and compare models.
+
+---
+
+## Resarch
+### Preprints
+
+**Hennert, J.**, Paape, D., Yadav, H., & Vasishth, S. (2025). *Can lossy-context surprisal capture both locality and anti-locality effects? A model evaluation using Russian, Hindi, and Persian data.* [[DOI](https://doi.org/10.31234/osf.io/aqw5z_v1)]
+
+### Talks
+
+*Can lossy-context surprisal capture both locality and anti-locality effects?* Kansai Circle of Psycholinguistics, Kwansei Gakuin University, Osaka, Japan
+[[Workshop website](https://kobe-konan.jp/nakatani/kcp/)]
+
+## Teaching
+
+::: {.list-table}
+
+- - 
+  - 
+
+- - August 24th - 28th, 2026
+  - Co-taught the course *Advanced Bayesian data analysis* with Bruno Nicenboim at the [Tenth Summer School on Statistical Methods in Linguistics and Psychology](https://vasishth.github.io/smlp2026/)
+
+- - Winter semester 2023/2024
+  - Teaching assistant in the course *Wissenschaftliches Schreiben und Arbeiten* (Bachelor) at the University of Potsdam
+
+- - Summer Semester 2023
+  - Teaching assistant in the course *Einführung in die Statistik* (Bachelor) at the University of Potsdam
+
+:::
 
 ## Education
 
@@ -19,15 +52,14 @@ As part of [Project B03 of the Collaborative Research Centre 1287](https://www.s
 - - 
   - 
 
-- - 2021 - 2024
+- - October 2021 - September 2024
   - B.Sc Cognitive Science \
     University of Potsdam \
     *Final Grade:* 1.1
 
-- - 2024 - 2026
+- - October 2024 - September 2026
   - M.Sc Computational Neuroscience \
     Technical University of Berlin \
     *Final Grade:* 1.1
 
 :::
-
