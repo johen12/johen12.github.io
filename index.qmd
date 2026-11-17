@@ -59,7 +59,7 @@ As part of [Project B03 of the Collaborative Research Centre 1287](https://www.s
 
 - - October 2024 - September 2026
   - M.Sc Computational Neuroscience \
-    Technical University of Berlin \
+    Humboldt University of Berlin/Technical University of Berlin \
     *Final Grade:* 1.1
 
 :::
