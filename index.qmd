@@ -37,6 +37,15 @@ As part of [Project B03 of the Collaborative Research Centre 1287](https://www.s
 - - August 24th - 28th, 2026
   - Co-taught the course *Advanced Bayesian data analysis* with Bruno Nicenboim at the [Tenth Summer School on Statistical Methods in Linguistics and Psychology](https://vasishth.github.io/smlp2026/)
 
+- - Summer semester 2025
+  - Teaching assistant in the course *Einführung in die Statistik* (Bachelor) at the University of Potsdam
+
+- - Winter semester 2024/2025
+  - Teaching assistant in the course *Foundations of Mathematics* (Master) at the University of Potsdam
+
+- - Summer semester 2024
+  - Teaching assistant in the course *Einführung in die Statistik* (Bachelor) at the University of Potsdam
+
 - - Winter semester 2023/2024
   - Teaching assistant in the course *Wissenschaftliches Schreiben und Arbeiten* (Bachelor) at the University of Potsdam
 
@@ -50,16 +59,16 @@ As part of [Project B03 of the Collaborative Research Centre 1287](https://www.s
 ::: {.list-table}
 
 - - 
-  - 
-
-- - October 2021 - September 2024
-  - B.Sc Cognitive Science \
-    University of Potsdam \
-    *Final Grade:* 1.1
+  -
 
 - - October 2024 - September 2026
   - M.Sc Computational Neuroscience \
     Humboldt University of Berlin/Technical University of Berlin \
+    *Final Grade:* 1.1
+
+- - October 2021 - September 2024
+  - B.Sc Cognitive Science \
+    University of Potsdam \
     *Final Grade:* 1.1
 
 :::
